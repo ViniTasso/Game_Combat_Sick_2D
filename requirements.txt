@@ -1,0 +1,6 @@
+
+- Instalei a biblioteca
+pip install pygame
+
+- Instalei a biblioteca
+pip install pygame_gui
